@@ -47,11 +47,19 @@ Ethical Hacking with Python
 <br>
 
 
-## Εξάσκηση
+## Ερωτήσεις
 
 - [ ] Τι θα τροποποιούσατε στο [bruteforce.py](https://github.com/diogenisAl/pyEthicalHacking/blob/main/source_code/bruteforce.py) προκειμένου να μην σταματάει πριν προσπαθήσει **1000 φορές**;
 - [ ] Τι θα τροποποιούσατε στο [bruteforce.py](https://github.com/diogenisAl/pyEthicalHacking/blob/main/source_code/bruteforce.py) προκειμένου να **μην αργεί**;
+
+<br>
+
+## Εξάσκηση
 - [ ] Τι θα τροποποιούσατε στο [bruteforce.py](https://github.com/diogenisAl/pyEthicalHacking/blob/main/source_code/bruteforce.py) προκειμένου να κάνει επίθεση στην σελίδα <*θα-σας-αποκαλυφθεί-όταν-έρθει-η-ώρα*>;
+* Βελτιστοποίηση κώδικα
+* Προσαρμογή κώδικα στο συγκεκριμένο παράδειγμα
+* όνομα χρήστη: admin
+* μέγεθος κωδικού: 4 χαρακτήρες 
 
 
 <br>
