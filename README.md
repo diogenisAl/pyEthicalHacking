@@ -55,7 +55,7 @@ Ethical Hacking with Python
 <br>
 
 ## Εξάσκηση
-- [ ] Τι θα τροποποιούσατε στο [bruteforce.py](https://github.com/diogenisAl/pyEthicalHacking/blob/main/source_code/bruteforce.py) προκειμένου να κάνει επίθεση στην σελίδα <*θα-σας-αποκαλυφθεί-όταν-έρθει-η-ώρα*>;
+- [ ] Τι θα τροποποιούσατε στο [bruteforce.py](https://github.com/diogenisAl/pyEthicalHacking/blob/main/source_code/bruteforce.py) προκειμένου να κάνει επίθεση στην ιστοσελίδα <*θα-σας-αποκαλυφθεί-όταν-έρθει-η-ώρα*>;
 * **Βελτιστοποίηση** κώδικα
 * **Προσαρμογή** κώδικα στο συγκεκριμένο παράδειγμα
 * **Βοήθεια** (όνομα χρήστη: admin)
