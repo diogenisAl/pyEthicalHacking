@@ -4,7 +4,6 @@ import string
 import random
 from bs4 import BeautifulSoup
 import time
-from bs4 import BeautifulSoup
 
 url = 'https://cir.di.ionio.gr/undergrad/AppliedPython/ethicalHacking/index_1.html'
 page = requests.get(url)
