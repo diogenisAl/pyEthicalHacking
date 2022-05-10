@@ -10,10 +10,12 @@ Ethical Hacking with Python
 ## Εισαγωγή
 
 > A white hat (or a white hat hacker) is an ethical security hacker.[1] Ethical hacking is a term meant to imply a broader category than just penetration testing. Under the owner's consent, white hat hackers aim to identify any vulnerabilities the current system has. 
+
 > Contrasted with the black hat, a malicious hacker, the name comes from Western films, where heroic and antagonistic cowboys might traditionally wear a white and a black hat, respectively. 
+
 > There is a third kind of hacker known as a grey hat who hacks with good intentions but at times without permission.
 
-Πηγή: [wikipedia](https://en.wikipedia.org/wiki/White_hat_(computer_security))
+*Πηγή: [wikipedia](https://en.wikipedia.org/wiki/White_hat_(computer_security))*
 
 <br>
 
