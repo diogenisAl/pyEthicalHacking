@@ -21,6 +21,10 @@ Ethical Hacking with Python
 * [time](https://docs.python.org/3/library/time.html)
 * [selenium](https://www.selenium.dev/)
 * [requests](https://docs.python-requests.org/en/latest/)
+* [socket](https://docs.python.org/3/library/socket.html)
+* [struct](https://docs.python.org/3/library/struct.html)
+* [binascii](https://docs.python.org/3/library/binascii.html)
+* [sys](https://docs.python.org/3/library/sys.html)
 * [string](https://docs.python.org/3/library/string.html)
 * [random](https://docs.python.org/3/library/random.html)
 
