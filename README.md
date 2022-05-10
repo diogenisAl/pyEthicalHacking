@@ -17,9 +17,12 @@ Ethical Hacking with Python
 
 
 ## Βιβλιοθήκες
-* []()
-* []()
-* []()
+* [bs4](https://pypi.org/project/bs4/)
+* [time](https://docs.python.org/3/library/time.html)
+* [selenium](https://www.selenium.dev/)
+* [requests](https://docs.python-requests.org/en/latest/)
+* [string](https://docs.python.org/3/library/string.html)
+* [random](https://docs.python.org/3/library/random.html)
 
 
 <br>
