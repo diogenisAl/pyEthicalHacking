@@ -39,7 +39,9 @@ Ethical Hacking with Python
 
 
 ## Προετοιμασία
-...
+1. Μελετήστε τον κώδικα του αρχείου [sql_injection.py](https://github.com/diogenisAl/pyEthicalHacking/blob/main/source_code/sql_injection.py)
+2. Μελετήστε τον κώδικα του αρχείου [bruteforce.py](https://github.com/diogenisAl/pyEthicalHacking/blob/main/source_code/bruteforce.py)
+3. Μελετήστε τον κώδικα του αρχείου [PacketSnifferV2.py](https://github.com/diogenisAl/pyEthicalHacking/blob/main/source_code/PacketSnifferV2.py)
 
 
 <br>
