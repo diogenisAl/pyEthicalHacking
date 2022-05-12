@@ -1,5 +1,3 @@
-# Υπό κατασκευή!
-
 # pyEthicalHacking
 
 Ethical Hacking with Python
