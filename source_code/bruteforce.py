@@ -5,14 +5,14 @@ import random
 from bs4 import BeautifulSoup
 import time
 
-url = 'https://cir.di.ionio.gr/undergrad/AppliedPython/ethicalHacking/index_1.html'
+url = '...' # <----- type the target url
 page = requests.get(url)
 soup = BeautifulSoup(page.content)
 print(soup)
 
 # Bruteforce to find password
 
-url = 'https://cir.di.ionio.gr/undergrad/AppliedPython/ethicalHacking/index_1.html'
+url = '...' # <----- type the target url
 page = requests.get(url)
 
 # Create a BeautifulSoup object from the response
