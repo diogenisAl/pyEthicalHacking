@@ -5,7 +5,7 @@ import random
 from bs4 import BeautifulSoup
 import time
 
-url = 'https://cir.di.ionio.gr/undergrad/AppliedPython/ethicalHacking/index_1.html'
+url = '...' # <--- enter the target url
 page = requests.get(url)
 # Create a BeautifulSoup object from the response
 driver = webdriver.Firefox('geckodriver/')
